@@ -1,4 +1,4 @@
-package main
+package go_debug_helper
 
 import (
 	"bytes"
